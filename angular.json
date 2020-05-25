@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HRMS"
+    }
+  },
+  "defaultProject": "HRMS",
+  "cli": {
+    "analytics": "14a844b1-5328-4417-a2d1-463838ea97ac"
+  }
 }
